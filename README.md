@@ -1,26 +1,28 @@
-# Peja Outdoor Festival Website
+# Prishtina REA Website
 
-This repository contains the official website for **Peja Outdoor Festival**, an event celebrating outdoor adventures, nature, and local culture. 
-The site is structured using HTML and includes PHP support for server-side interactions.
+This repository contains the source code for the official **Prishtina REA** website, a platform designed to promote development, innovation, and entrepreneurship in the Prishtina region.
 
 ## 🌐 Live Preview
 
-🔗 [https://pejaoutdoorfestival.org/](https://pejaoutdoorfestival.org/)
+🔗 [https://prishtina-rea.net/](https://prishtina-rea.net/)
 
 ## 🧾 Project Structure
 
-peja/
-└── pejaoutdoorfestival.org/
+Prishtina-Rea/
+└── prishtina-rea.net/
 ├── index.html # Main landing page
-├── indexXXXX.html # Additional content pages
-├── xmlrpc.php # PHP script
-├── xmlrpc0db0.php # Additional PHP backend
-├── .gitignore # Git ignore configuration
-└── .git/ # Git versioning metadata
+├── xmlrpc.php # Backend script
+├── xmlrpc0db0.php # Additional backend logic
+├── .gitignore # Ignored files
+└── .git/ # Git metadata
+
 
 ## ⚙️ Technologies Used
 
-- **HTML5** – static content and layout
-- **CSS3**  – styling
+- **HTML5** – page layout and content
+- **CSS3** *(if included)* – design and responsiveness
 - **PHP** – server-side logic
-- **Git** – version control
+- **Git** – source control
+
+
+
